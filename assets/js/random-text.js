@@ -1,6 +1,6 @@
 var max1 = 59;
 var max2 = 64;
-var max3 = 34;
+var max3 = 59;
 
 index1 = Math.round(Math.random() * max1);
 index2 = Math.round(Math.random() * max2);
