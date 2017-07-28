@@ -1,6 +1,6 @@
-var max1 = 59;
-var max2 = 64;
-var max3 = 59;
+var max1 = 60;
+var max2 = 75;
+var max3 = 43;
 
 index1 = Math.round(Math.random() * max1);
 index2 = Math.round(Math.random() * max2);
@@ -30,6 +30,7 @@ array3 = new Array("Synergies", "Web-readiness", "Paradigms", "Markets", "Partne
 "Architectures", "Interfaces", "E-commerce", "Systems", "Bandwidth", "Models",
 "Mindshare", "Deliverables", "Users", "Schemas", "Networks", "Apps", "Metrics", "Functionalities",
 "Experiences", "Web services", "Methodologies", "Virtual Reality", "Augmented Reality", "iBeacons", "Game engines", "Infrastructures");
+
 
 function getResult()
 {
