@@ -1,6 +1,6 @@
 var max1 = 60;
 var max2 = 75;
-var max3 = 43;
+var max3 = 44;
 
 index1 = Math.round(Math.random() * max1);
 index2 = Math.round(Math.random() * max2);
@@ -29,7 +29,7 @@ array3 = new Array("Synergies", "Web-readiness", "Paradigms", "Markets", "Partne
 "Portals", "Niches", "Technologies", "Content", "Supply-chains", "Convergence", "Relationships",
 "Architectures", "Interfaces", "E-commerce", "Systems", "Bandwidth", "Models",
 "Mindshare", "Deliverables", "Users", "Schemas", "Networks", "Apps", "Metrics", "Functionalities",
-"Experiences", "Web services", "Methodologies", "Virtual Reality", "Augmented Reality", "iBeacons", "Game engines", "Infrastructures");
+"Experiences", "Web services", "Methodologies", "Virtual Reality", "Augmented Reality", "iBeacons", "Game engines", "Infrastructures", "Bots");
 
 
 function getResult()
