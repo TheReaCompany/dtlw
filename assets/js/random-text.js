@@ -22,7 +22,7 @@ array2 = new Array("Bricks-and-mortar", "Value-added", "Vertical", "Proactive", 
 "Open-source", "Cross-platform", "Cross-media", "Synergistic", "Out-of-the-box", "Enterprise",
 "Integrated", "Impactful", "Wireless", "Transparent", "New-media", "Cutting-edge", "User-centric", "Visionary",
 "Customized", "Ubiquitous", "Plug-and-play", "Collaborative", "Compelling", "Holistic", "Rich", "Omni-channel", "360º", "Best-in-class",
-"Online", "Siloed", "Facebook", "Twitter", "Snapchat", "Reddit", "Kickstarter");
+"Online", "Siloed", "Facebook", "Twitter", "Snapchat", "Reddit", "Kickstarter", "Artificial Intelligence", "Natrual Language Processing", "Machine Learning");
 
 array3 = new Array("Synergies", "Web-readiness", "Paradigms", "Markets", "Partnerships", "Infrastructures", "Platforms",
 "Initiatives", "Channels", "Eyeballs", "Communities", "ROI", "Solutions", "Action-items",
