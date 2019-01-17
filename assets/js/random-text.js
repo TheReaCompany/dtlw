@@ -12,7 +12,7 @@ array1 = new Array("Implement", "Utilize", "Integrate", "Streamline", "Optimize"
 "Drand", "Grow", "Target", "Syndicate", "Synthesize", "Deliver", "Mesh", "Incubate", "Engage", "Maximize", "Benchmark",
 "Expedite", "Reintermediate", "Whiteboard", "Visualize", "Repurpose", "Scale", "Unleash", "Drive", "Extend",
 "Engineer", "Revolutionize", "Generate", "Exploit", "Transition", "Iterate", "Cultivate", "Matrix",
-"Productize", "Redefine", "Recontextualize", "Design", "Invest", "'Tom Goodwin'");
+"Productize", "Redefine", "Recontextualize", "Design", "Invest");
 
 array2 = new Array("Bricks-and-mortar", "Value-added", "Vertical", "Proactive", "Robust", "Revolutionary", "Scalable",
 "Leading-edge", "Innovative", "Intuitive", "Strategic", "E-business", "Mission-critical", "Sticky", "One-to-one",
